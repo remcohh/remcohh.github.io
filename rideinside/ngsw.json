@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1642941031740,
+  "timestamp": 1642941422345,
   "index": "/rideinside/index.html",
   "assetGroups": [
     {
@@ -69,7 +69,7 @@
         "/rideinside/9954.4a745d650c343754.js",
         "/rideinside/common.51438afbbfe74410.js",
         "/rideinside/index.html",
-        "/rideinside/main.6bf32ac59fc99745.js",
+        "/rideinside/main.11be5ea2a24fcee7.js",
         "/rideinside/manifest.webmanifest",
         "/rideinside/polyfills-core-js.752bb3bf720b0d4e.js",
         "/rideinside/polyfills-dom.85ccaec7aac60b80.js",
@@ -174,8 +174,8 @@
     "/rideinside/assets/samples/tcx1.tcx": "b396dd3ca65d1ed983715636bc780628f4dba50b",
     "/rideinside/assets/shapes.svg": "5413e95adabcb2cb639970051f55e0ddb64ace53",
     "/rideinside/common.51438afbbfe74410.js": "3f3d8f4dddbf9d8243479508b2da737a24edd826",
-    "/rideinside/index.html": "d3a4871dbc014f88b17b09f7ed1978f2a8bbb8a3",
-    "/rideinside/main.6bf32ac59fc99745.js": "030137bb5ec179201e14b27a3f4ff266fbf7977c",
+    "/rideinside/index.html": "1af47070545bfd536f5dd7fbf6a83e0f8476db9f",
+    "/rideinside/main.11be5ea2a24fcee7.js": "8a80123dcdcb2f0469f489560f9ba683e5f8cac0",
     "/rideinside/manifest.webmanifest": "96731cc42b5676640b223433436219a11ec09c92",
     "/rideinside/polyfills-core-js.752bb3bf720b0d4e.js": "8a7627a0b86d3ce2e95a66a1f5f2df3b18efd656",
     "/rideinside/polyfills-dom.85ccaec7aac60b80.js": "29b192056902ba0ae392d4b3333a89a952e2147f",
