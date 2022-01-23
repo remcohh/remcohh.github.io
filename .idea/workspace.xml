@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5099a262-38fe-4dfe-a5ef-d646681d0576" name="Changes" comment="fix base href" />
+    <list default="true" id="5099a262-38fe-4dfe-a5ef-d646681d0576" name="Changes" comment="fix base href">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +39,8 @@
       <option name="presentableId" value="Default" />
       <updated>1642619859280</updated>
       <workItem from="1642619862090" duration="289000" />
-      <workItem from="1642620441537" duration="2332000" />
+      <workItem from="1642620441537" duration="3554000" />
+      <workItem from="1642666467966" duration="26000" />
     </task>
     <task id="LOCAL-00001" summary="fix base href">
       <created>1642621433216</created>
