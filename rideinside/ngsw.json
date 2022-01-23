@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1642939042403,
+  "timestamp": 1642941031740,
   "index": "/rideinside/index.html",
   "assetGroups": [
     {
@@ -51,7 +51,7 @@
         "/rideinside/7014.e64b670da1920349.js",
         "/rideinside/7245.b702a2a6771ebb35.js",
         "/rideinside/7446.6212ba55e02ae357.js",
-        "/rideinside/7542.db89ad174d824e6c.js",
+        "/rideinside/7542.8013737e795b7b13.js",
         "/rideinside/7572.db7ce60a46ea27b2.js",
         "/rideinside/7881.1257a3cfed1557cf.js",
         "/rideinside/7957.7ac3f808ff2fcf51.js",
@@ -67,14 +67,14 @@
         "/rideinside/9797.54ccda98a6656714.js",
         "/rideinside/9871.65a612cde7ebfd58.js",
         "/rideinside/9954.4a745d650c343754.js",
-        "/rideinside/common.f3d9967cd77d45a8.js",
+        "/rideinside/common.51438afbbfe74410.js",
         "/rideinside/index.html",
-        "/rideinside/main.525a0af57e9ae3cf.js",
+        "/rideinside/main.6bf32ac59fc99745.js",
         "/rideinside/manifest.webmanifest",
         "/rideinside/polyfills-core-js.752bb3bf720b0d4e.js",
         "/rideinside/polyfills-dom.85ccaec7aac60b80.js",
         "/rideinside/polyfills.399b2c612e14986c.js",
-        "/rideinside/runtime.f1872ff822e08804.js",
+        "/rideinside/runtime.8fb494aa5f18759b.js",
         "/rideinside/styles.b93f84fd65d7abb6.css"
       ],
       "patterns": []
@@ -145,7 +145,7 @@
     "/rideinside/7014.e64b670da1920349.js": "ec3c9369f0057be6426692f700e38d438956998b",
     "/rideinside/7245.b702a2a6771ebb35.js": "0e6ec8178a0cd4a3a2072693ec95b3c757abae81",
     "/rideinside/7446.6212ba55e02ae357.js": "6811fa80b4c12c3f8ffbe5bea246648255fcb3e7",
-    "/rideinside/7542.db89ad174d824e6c.js": "e7ec069a6e018d23fa2a05815a690ca27cc61851",
+    "/rideinside/7542.8013737e795b7b13.js": "63051a0b5b66dbc595e66d975c5b647b7931fe1d",
     "/rideinside/7572.db7ce60a46ea27b2.js": "57a3e49a43d4c8b257a1a68f255f5f542bbbf242",
     "/rideinside/7881.1257a3cfed1557cf.js": "484cc8274d5b326ca437584f35735c94d6e91d22",
     "/rideinside/7957.7ac3f808ff2fcf51.js": "269bf6a063f35519e40b72dd463c1bb340e1f3e6",
@@ -173,14 +173,14 @@
     "/rideinside/assets/icons/strava_connect.png": "89c2a7ffcc3c0f97a28f337131b668e01c253623",
     "/rideinside/assets/samples/tcx1.tcx": "b396dd3ca65d1ed983715636bc780628f4dba50b",
     "/rideinside/assets/shapes.svg": "5413e95adabcb2cb639970051f55e0ddb64ace53",
-    "/rideinside/common.f3d9967cd77d45a8.js": "0995a986bf7e1479014748bc9496cc3be11b7e0a",
-    "/rideinside/index.html": "6df8a119ab6b7104f88cf326c2200cb633f67460",
-    "/rideinside/main.525a0af57e9ae3cf.js": "efd60327db25871f6e34c2c742869098ba7326a3",
+    "/rideinside/common.51438afbbfe74410.js": "3f3d8f4dddbf9d8243479508b2da737a24edd826",
+    "/rideinside/index.html": "d3a4871dbc014f88b17b09f7ed1978f2a8bbb8a3",
+    "/rideinside/main.6bf32ac59fc99745.js": "030137bb5ec179201e14b27a3f4ff266fbf7977c",
     "/rideinside/manifest.webmanifest": "96731cc42b5676640b223433436219a11ec09c92",
     "/rideinside/polyfills-core-js.752bb3bf720b0d4e.js": "8a7627a0b86d3ce2e95a66a1f5f2df3b18efd656",
     "/rideinside/polyfills-dom.85ccaec7aac60b80.js": "29b192056902ba0ae392d4b3333a89a952e2147f",
     "/rideinside/polyfills.399b2c612e14986c.js": "1b16bd292964217572607b9106bc9e252594efec",
-    "/rideinside/runtime.f1872ff822e08804.js": "078e5fbd246fb8ec22568d2838188fadbffa6a68",
+    "/rideinside/runtime.8fb494aa5f18759b.js": "c07caa0be2fa843bbb6945c6878f75a2c6500268",
     "/rideinside/styles.b93f84fd65d7abb6.css": "82a6e661962dba99a7985100041b98a746ce6ded"
   },
   "navigationUrls": [
